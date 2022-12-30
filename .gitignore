@@ -1,0 +1,7 @@
+.direnv/*
+/public/
+.DS_Store
+
+/.quarto/
+_book/
+_site/
