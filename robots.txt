@@ -1,1 +1,1 @@
-Sitemap: https://mrchemsoft.no/sitemap.xml
+Sitemap: https://github.com/MRChemSoft/mrchemsoft.github.io/sitemap.xml
